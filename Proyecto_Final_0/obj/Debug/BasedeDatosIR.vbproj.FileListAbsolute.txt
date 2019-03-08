@@ -1,0 +1,56 @@
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.exe.config
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.exe
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.xml
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.pdb
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.exe
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.pdb
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.xml
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\MetroFramework.dll
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\BasedeDatosIR.vbprojResolveAssemblyReference.cache
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_AGREGAR_PROYECTO.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_AGREGAR_TAREA.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_CATEGORIA.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_CLIENTE.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_DETALLE_PROYECTO.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_EDITAR_USUARIO.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_GASTOS_INGRESOS.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_PLAN_DE_TRABAJO.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_PROYECTO.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_ROLES.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_USUARIOS.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.MB_OK.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.MB_YESNO.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_LOGIN.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_DASHBOARD.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.Resources.resources
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\BasedeDatosIR.vbproj.GenerateResource.Cache
+C:\Users\Alina\Desktop\BD\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_MAIN.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.exe.config
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\BasedeDatosIR.vbprojResolveAssemblyReference.cache
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_CLIENTE.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_DETALLE_PROYECTO.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_EDITAR_USUARIO.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_PROYECTO.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_USUARIOS.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.MB_OK.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.MB_YESNO.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_LOGIN.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_DASHBOARD.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.Resources.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\BasedeDatosIR.vbproj.GenerateResource.Cache
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.xml
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.exe
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.pdb
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\Proyecto_Final_0.xml
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\MetroFramework.Design.dll
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\MetroFramework.dll
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.exe
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.pdb
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_ROLES_CATEGORIA.resources
+C:\Users\Edye\Documents\UNI\4to Semestre\Bases de datos\Proyecto\Proyecto_Final_2\Proyecto_Final_0\obj\Debug\Proyecto_Final_0.FRM_MOTIVO_MODIFICACION.resources
